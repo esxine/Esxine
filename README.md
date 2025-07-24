@@ -1,5 +1,5 @@
 yo!!
-https://github.com/user-attachments/assets/b14b5189-5cad-4411-9211-8622df20f293
+
 <!--
 **esxine/Esxine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
